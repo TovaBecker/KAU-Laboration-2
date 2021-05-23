@@ -1,0 +1,10 @@
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.mainForm.resources
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.Properties.Resources.resources
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.csproj.GenerateResource.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\bin\Debug\Miniräknare.exe.config
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\bin\Debug\Miniräknare.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\bin\Debug\Miniräknare.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Miniräknare\obj\Debug\Miniräknare.pdb

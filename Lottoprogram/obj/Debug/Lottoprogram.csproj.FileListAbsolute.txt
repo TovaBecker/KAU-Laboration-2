@@ -1,0 +1,10 @@
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\bin\Debug\Lottoprogram.exe.config
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\bin\Debug\Lottoprogram.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\bin\Debug\Lottoprogram.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.mainForm.resources
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.Properties.Resources.resources
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.csproj.GenerateResource.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.exe
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\KAU\Module 2\Laboration 2\Lottoprogram\obj\Debug\Lottoprogram.pdb
